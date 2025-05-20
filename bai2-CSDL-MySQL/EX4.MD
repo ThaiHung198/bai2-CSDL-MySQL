@@ -1,4 +1,8 @@
 ```sql
+create database ERD;
+
+use ERD;
+
 create table NHACC (
     MaNCC varchar(10) primary key,
     TenNCC varchar(100),
